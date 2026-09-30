@@ -1,0 +1,3 @@
+streamli
+google-genai
+python-dotenv
